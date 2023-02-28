@@ -4,6 +4,10 @@
 
 The project is a calculator of the Least Square Method using a collection of points xi, yi. With the pourpose of linearization the values in a line equation.
 
+## Tech
+
+- Python
+
 ## Methodology
 
 The angular coefficient was calculated using the formula:<br>
